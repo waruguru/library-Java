@@ -1,3 +1,4 @@
+#files to be ignored
 *.iml
 .gradle
 /local.properties
