@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">libraryJava</string>
+    <string name="intro_screen_introduction">intro_screen_introduction</string>
 </resources>
