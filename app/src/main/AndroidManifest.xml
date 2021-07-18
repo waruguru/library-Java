@@ -13,6 +13,8 @@
         <activity android:name=".ui.MainActivity">
         </activity>
         <activity android:name=".ui.SignUpActivity"/>
+        <activity android:name=".ui.ListActivity"/>
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
