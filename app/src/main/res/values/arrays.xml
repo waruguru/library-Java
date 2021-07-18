@@ -2,4 +2,5 @@
 <resources>
     <string-array name="com_google_android_gms_fonts_certs">com_google_android_gms_fonts_certs
     </string-array>
+    <string-array name="preloaded_fonts">preloaded_fonts</string-array>
 </resources>
