@@ -6,16 +6,17 @@
     android:orientation="vertical"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_height="match_parent">
-    
+
     <ImageView
         android:id="@+id/iv_slider"
-        android:layout_width="250dp"
-        android:layout_height="200dp"
+        android:layout_width="279dp"
+        android:layout_height="224dp"
         android:layout_gravity="center"
-        android:layout_marginTop="15dp"
         android:layout_marginLeft="16dp"
-        app:srcCompat="@drawable/illustration3"
-        android:adjustViewBounds="true"/>
+        android:layout_marginTop="15dp"
+        android:adjustViewBounds="true"
+        app:srcCompat="@drawable/joy" />
+
     <TextView
         android:id="@+id/tv_slider_title"
         android:layout_width="match_parent"
